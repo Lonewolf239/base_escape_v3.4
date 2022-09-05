@@ -1,1 +1,1 @@
-# base_escape_v3.4_BETA for Win64 and Win32
+# base_escape_v3.4 for Win64 and Win32
